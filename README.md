@@ -8,16 +8,16 @@
    Search for existing projects before writing any code. Try at least 3 different keyword combinations.
 
 2. **Assess Feasibility**
-   Honestly evaluate whether the approach is viable. Validate the core assumption with a minimal script before committing.
+   Honestly evaluate whether the approach is viable. No flattery, no promises, no code until the core assumption is validated.
 
 3. **Lock the Architecture**
-   Don't write a single line until the architecture is clear. Preference order: config > direct > proxy > bridge > translation.
+   Nail down a working architecture before writing code. No code until the architecture is solid.
 
 4. **Cut Losses Early**
-   If every fix spawns new bugs, the approach is flawed. Stop and re-evaluate.
+   More bugs after every fix? The approach is flawed. Stop and re-evaluate.
 
 5. **Periodic Brake Check**
-   Every 3 sub-tasks, pause and ask: "Does this still make sense?"
+   Every 3 sub-tasks, pause and ask: "Does this still make sense? Is there a simpler way?"
 
 ## Usage
 
